@@ -1,4 +1,4 @@
-# session-1
+# session-1-lea
 Initiation à Github et architecture du web
 
 ## Plan du cours
